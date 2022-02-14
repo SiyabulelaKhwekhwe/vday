@@ -15,7 +15,7 @@
     <title>Valentine's Day Present</title>
 </head>
 <body >
-  <a href="letter.html">
+  <a href="letter.php">
   <main id="swup" class="transition-fade">
     <div class="container" >  
         <div class="valentines">
@@ -39,17 +39,9 @@
             Your brouser doesnt support this html audio tag
         </audio>
         <div class="shadow"></div>
-        
         </div>
       </main>
     </a>
-        <script>
-          function myFunction() {
-            //document.getElementById("body").style.backgroundColor = "yellow";
-            //window.location.href = './letter.html';
-            // onclick="myFunction()"
-          }
-          </script>
         
 </body>
 

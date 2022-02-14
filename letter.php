@@ -46,10 +46,6 @@
         </div>
         <script>
             function myFunction(num) {
-              //document.getElementsByClassName("thecard").style.transform = "rotateY(180deg)";
-              
-              //window.location.href = './letter.html';
-              // onclick="myFunction()"
               if(num == 0){
                 document.getElementById("thecard").style.transform = "rotateY(180deg)";
               }else{
