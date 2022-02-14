@@ -36,15 +36,16 @@
             </div>
         </div>
       </a>
-
+        <div class="shadow"></div>
+        
+        </div>
         <audio controls  class="audio">
           <source src="audio/e1.mp3" type="audio/mpeg">
             Your brouser doesnt support this html audio tag
         </audio>
-        <div class="shadow"></div>
-        </div>
       </main>
-    
+      
+      
         
 </body>
 
